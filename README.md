@@ -1,2 +1,2 @@
 # SteamApps
-Collection of Steam files by AppID
+Collection of Steam files
